@@ -1,7 +1,7 @@
 /*
 咔咔
-下载：https://h5.imkaka.com/fep/fun-kaka/invitation.html?code=PKUTNNC
-邀请码：PKUTNNC
+下载：https://h5.imkaka.com/fep/fun-kaka/invitation.html?code=VBSK09P
+邀请码：VBSK09P
 填写邀请码自动获得5元，每天提现1元到支付宝，提现需要实名认证+人脸
 脚本自动提现和投票，投票次数每天送一次，发2条动态额外送2次(需要手动)
 
